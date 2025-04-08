@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MusicalVR
 - 👀 I’m interested in ... Cybersecurity, Python, Pentration testing, VR & VR chat. Just overall a n3rd
 - 📫 How to reach me ... Discord #the_musical_manokit
-- 😄 Pronouns: he/him
+- 😄 Pronouns: somethin
 - ⚡ Fun fact: error 404
 
 <!---
